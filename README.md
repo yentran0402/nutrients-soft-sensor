@@ -6,5 +6,6 @@ This repo is for uploading code for the paper "Predicting high-frequency nutrien
 
 # Citation
 If you find our code to be useful, please cite the following paper:
+
 Tran, Binh Yen; Arias-Rodriguez, Leonardo F.; Huang, Jingshui. (2022) Predicting high-frequency nutrient dynamics in the Danube River from surrogates with sensors and machine-learning.  (No. EGU22-12914). Copernicus Meetings.
 
