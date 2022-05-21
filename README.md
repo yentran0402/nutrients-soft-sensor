@@ -7,5 +7,5 @@ This repo is for uploading code for the paper "Predicting high-frequency nutrien
 # Citation
 If you find our code to be useful, please cite the following paper:
 
-Tran, B. Y., and Arias-Rodriguez, L. F.,Huang, J.: Predicting high-frequency nutrient dynamics in the Danube River from surrogates with sensors and machine-learning, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-12914, https://doi.org/10.5194/egusphere-egu22-12914, 2022.
+Tran, B. Y.; Arias-Rodriguez, L. F.; Huang, J.: Predicting high-frequency nutrient dynamics in the Danube River from surrogates with sensors and machine-learning, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-12914, https://doi.org/10.5194/egusphere-egu22-12914, 2022.
 
